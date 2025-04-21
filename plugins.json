@@ -1,6 +1,6 @@
 [
   {
-    "name": "Induma Plugin",
+    "name": "Indumas Plugin",
     "entry": "./plugins/Induma-plugin/plugin.js"
   }
 ]
